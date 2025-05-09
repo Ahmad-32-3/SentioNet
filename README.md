@@ -59,12 +59,4 @@ The project uses the IMDB dataset to classify reviews as positive or negative.
 
 ---
 
-## License
 
-MIT License
-
----
-
-## Author
-
-[Your Name Here]
